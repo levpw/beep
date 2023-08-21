@@ -85,10 +85,10 @@ digits[9]="
 display_time() {
     local current_time=$(date +"%H:%M:%S")
     local separator="  
-     
-  #  
-     
-  #  
+    
+ #  
+    
+ #  
      
 "
 
